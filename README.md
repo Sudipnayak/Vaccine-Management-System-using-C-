@@ -1,1 +1,2 @@
-# Vaccine-Management-System-using-C-
+# Vaccine-Management-System-using-C++
+This is a C++ prototype project that shows the vaccine management system of a concerned medical unit. We have given access to one user and one guest format user. Here, the user can get the information of availability of number of vaccines in that hospital. The Hospiatal also updates its vaccine availability(addition and substration in the number of vaccine doses) after a group of people being vaccinated. For more information please go through the pdf file attached in here.
